@@ -1,0 +1,31 @@
+.body{
+    font-family: sans-serif;
+}
+.custom-gap {
+    gap: 60px;  
+    font-size: 22px;
+    font-weight: bold;
+}
+#carouselExampleAutoplaying {
+  margin-top: 10px;       
+}
+.carousel-item img {
+  height: 400px;              
+  object-fit: cover;           
+  border-radius: 8px;          
+}
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5); 
+  border-radius: 6px;
+  padding: 10px 15px;
+}
+.row{
+    margin-top: 30px;
+}
+.card{
+    height: 300px;
+    width: 300px;
+}
+.footer{
+    margin-top: 40px;
+}
